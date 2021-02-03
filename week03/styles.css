@@ -6,10 +6,11 @@ charset "utf-8";
 
 body{
 
-  font-family: "Georgia", Times, serif; color:blue;
+  font-family: "Georgia", Times, serif; color:black;
   line-height: 140%;
   margin: 30px;
   background-image: url("page-bg.gif");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-color: #F7F3DE;
+}
